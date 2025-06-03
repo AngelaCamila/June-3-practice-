@@ -1,3 +1,6 @@
+#include <stdio.h>
+
+/*A Function is a set of statements that perform some specific tasks.*/
 // Function definition
 void hello() {
     printf("GeeksforGeeks");
@@ -8,3 +11,5 @@ int main() {
     hello();
     return 0;
 }
+
+

@@ -1,7 +1,6 @@
-/*A Function is a set of statements that perform some specific tasks.*/
 #include <stdio.h>
-int main ()
-{
+
+/*A Function is a set of statements that perform some specific tasks.*/
 // Function definition
 void hello() {
     printf("GeeksforGeeks");
@@ -12,5 +11,5 @@ int main() {
     hello();
     return 0;
 }
-}
-/*The Log (x) function returns the logarithm of the given number passes as a parameter*/
+
+
